@@ -61,7 +61,7 @@ locals {
   # Compute the regional shortname from component parts
   continent_short_name = {
     africa       = "af"
-    asia         = "az"
+    asia         = "as"
     australia    = "au"
     europe       = "eu"
     northamerica = "na"
